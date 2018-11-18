@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace HanoiTuerme
 {
     class Program
-    {
+    { 
 
         public static string DumpDataTable(DataTable table)
         {
